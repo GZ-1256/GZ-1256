@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Gimp 2.10.38 and Gimp 3.0.2
 - 💞️ I am looking for cooperation in writing plugins and scripts step by step
 - 📫 I don't know English, I translate via the Internet
-
+- I'm taking my first steps in GitHub
 
 
 <!---
